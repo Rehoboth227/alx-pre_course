@@ -1,2 +1,1 @@
-My first readme
-now i am updating it
+I am updating my repo
